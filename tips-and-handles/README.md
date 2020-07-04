@@ -34,7 +34,7 @@ Characterization of thermocouple. With Excel plot against a regular 'type-K' the
 <a id="hazar-blog"></a>
 ### Hazar Blog
 
-Hazar's investigations into C245 thermocouple, using the MAX6675. This is a great guide if you want to take measurements.
+Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermocouple](/tools/k-type%20thermocouple). This is a great guide if you want to take measurements yourself.
 
 * Original version: [on Hazar's Blog](http://www.hazarkarabay.com.tr/elektronik/jbc-kontrolcu-sicaklik-olcumu/)
 * **Accessible version:** [Mirrored, translated to english](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tips-and-handles/t245-c245/JBC%20Controler_%20Temperature%20Measurement%20(2020-06-16%2010_25_36).html)
