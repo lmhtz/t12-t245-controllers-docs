@@ -146,7 +146,7 @@ Those are available seperately and not tested in this guide. The debugger we cov
 <a id="connecting-hardware"></a>
 ## Connecting Hardware
 
-For all guide connecting to STM32 chip over SWD Protocol. This section has moved to [Programmers folder](/tools/programmers).
+For all guide connecting to STM32 chip over SWD Protocol. This section has moved to [Programmers folder](/tools/programmers/stm32-swd-protocol).
 
 <a id="openocd"></a>
 ## OpenOCD
