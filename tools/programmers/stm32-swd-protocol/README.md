@@ -107,11 +107,11 @@ If you have a logic analyzer then also connect it onto the following lines:
 
 When communication fails because the target device was not powered:
 
-![SWD no response from target](swd-protocol/logic-analyzer-trace-swd-no-response-from-target.png)
+![SWD no response from target](logic-analyzer-trace-swd-no-response-from-target.png)
 
 When communication is successful, because the target device is correctly receiving power:
 
-![SWD successful communications start](swd-protocol/logic-analyzer-trace-swd-begin.png)
+![SWD successful communications start](logic-analyzer-trace-swd-begin.png)
 
 <a id="connecting-over-swd"></a>
 ## Connecting over SWD

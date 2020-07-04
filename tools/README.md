@@ -8,7 +8,7 @@ Resources for testing / calibration equipment. For temperature measurement with 
 
 ## Programmers
 
-Assets for programming STM32 chip, using the ST Link SWD protocol.
+Hardware programmers, and how to wire them up to debugging ports. How to establish a connection from PC software to the target device.
 
 ## Software
 
