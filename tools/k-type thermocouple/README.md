@@ -33,9 +33,7 @@ https://www.aliexpress.com/item/32682640169.html
 
 A really detailed and helpful guide here. It tells everything about the MAX6675, and how to use it:
 
-https://www.best-microcontroller-projects.com/max6675.html
-
-* [Mirror](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tools/k-type%20thermocouple/MAX6675%20Simple%20Arduino%20Tutorial%20for%20measuring%20up%20to%201024C%20(2020-06-16%2012_27_51).html)
+https://www.best-microcontroller-projects.com/max6675.html ([Mirror](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tools/k-type%20thermocouple/MAX6675%20Simple%20Arduino%20Tutorial%20for%20measuring%20up%20to%201024C%20(2020-06-16%2012_27_51).html))
 
 There are also many other guides on the internet.
 
