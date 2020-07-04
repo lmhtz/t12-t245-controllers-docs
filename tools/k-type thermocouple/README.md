@@ -23,9 +23,9 @@ By using am external k-type thermocouple you can then check whether your op-amp 
 
 This module communicates over SPI bus. Therefore it requires an arduino (or whatever your favorite MCU that can talk SPI protocol. So that you can receive the temperature data output from the module.
 
-This module can be found as a kit (along with a k-type thermocouple included!) on Aliexpress. Just search for "MAX6675", for example (this link may expire, so search again):
+This module can be found as a kit (along with a k-type thermocouple included!) on Aliexpress. Just search for "MAX6675", for example:
 
-https://www.aliexpress.com/item/32682640169.html
+* https://www.aliexpress.com/item/32682640169.html (listing may expire)
 
 
 <a id="usage"></a>
