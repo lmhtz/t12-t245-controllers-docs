@@ -5,7 +5,12 @@ Mirrors and research repository documenting a variety of soldering iron controll
 <!-- MarkdownTOC -->
 
 * [Introduction](#introduction)
-	* [Disclaimers](#disclaimers)
+* [Sections](#sections)
+	* [Controllers](#controllers)
+	* [Tips and Handles](#tips-and-handles)
+	* [Tools](#tools)
+	* [Research](#research)
+* [Disclaimers](#disclaimers)
 	* [Organisation / Navigation](#organisation--navigation)
 	* [Copyright and Attribution](#copyright-and-attribution)
 	* [Mirrors](#mirrors)
@@ -28,8 +33,31 @@ This repository provides research and technical information about soldering iron
 * Schematics, wiring diagrams, and other technical characteriztions
 * Where to find forum theads and public discussions about these things
 
+<a id="sections"></a>
+## Sections
+
+<a id="controllers"></a>
+### Controllers
+
+For controllers that have been identified, and are of particular interest. If they have known PCB revisions, and schematics.
+
+<a id="tips-and-handles"></a>
+### Tips and Handles
+
+Documentation for different Soldering Iron Tips or Handles.
+
+<a id="tools"></a>
+### Tools
+
+Hardware and software tools in support. For device programming, debugging, or external calibration of the soldering iron.
+
+<a id="research"></a>
+### Research
+
+Research materials which do not neatly fall into the above categories. They may include significant information for multiple different categories. Or if written in a foreign language, then a translation to english is provided.
+
 <a id="disclaimers"></a>
-### Disclaimers
+## Disclaimers
 
 This is a repository of information collected from around the web. To facilitate the finding of this frequently sought after information. To help aid navigation, most sources have been organized into a logical folder structure. Which is loosely based around the families of hardware to which they belong to. However some information sources a relevant to multiple different families of hardware. These are then dumped into a 'general' category. Or something like that.
 
