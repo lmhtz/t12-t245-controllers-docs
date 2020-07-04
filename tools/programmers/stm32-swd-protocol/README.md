@@ -2,7 +2,7 @@
 
 Along with connecting up a hardware programmer device, as detailed in this section. You will also need to install a suitable programmer software tool to run on your PC. Which can connect to it and talk over the SWD protocol.
 
-This section assumes that you have already installed necessary [software tools for STM32 platform](/tools/STM32CubeIDE). In particular you must [Install OpenOCD](/tools/STM32CubeIDE#install-openocd). This is the tool we use in this guide. Perhaps it's a good idea to go and do that first.
+This section assumes that you have already installed necessary [software tools for STM32 platform](/tools/software/STM32CubeIDE). In particular you must [Install OpenOCD](/tools/software/STM32CubeIDE#install-openocd). This is the tool we use in this guide. Perhaps it's a good idea to go and do that first.
 
 Other than OpenOCD there are 2 other SWD software tools: J-Link and ST-Link. And a version of ST-Link is also embedded and distributed within the STM32Cube**IDE**. However the software tool we use here is OpenOCD. So those tools are not covered here.
 
@@ -51,7 +51,7 @@ Most of the other PCB versions tend to have a line of 4 pinx marked up as **SWD*
 
 These STM32 microprocessors have partially reassignable pin configurations. However if you open the `.ioc` file in the STM32Cube**IDE**. Then it will open up the **MX** Tool in a sub window.
 
-![Opening MX Tool](/tools/STM32CubeIDE/open-ioc-file-STM32CubeMX-from-within-IDE.png)
+![Opening MX Tool](/tools/software/STM32CubeIDE/open-ioc-file-STM32CubeMX-from-within-IDE.png)
 
 <a id="connecting-a-hardware-debugger"></a>
 ## Connecting a hardware Debugger
@@ -119,7 +119,7 @@ When communication is successful, because the target device is correctly receivi
 <a id="with-openocd"></a>
 ### With OpenOCD
 
-For this section you must first [Install OpenOCD](/tools/STM32CubeIDE#install-openocd).
+For this section you must first [Install OpenOCD](/tools/software/STM32CubeIDE#install-openocd).
 
 <a id="with-a-tiao-tumpa-v2-hardware-debugger"></a>
 #### With a TIAO TUMPA v2 hardware debugger
