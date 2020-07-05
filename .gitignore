@@ -4,3 +4,5 @@ private/
 /Release/
 .settings
 *.kra
+excluded/
+
