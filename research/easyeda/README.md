@@ -9,25 +9,25 @@ What is nice about EasyEDA is that it includes online Web Based tools for editin
 
 by GeriTheFox
 
-* Link: https://easyeda.com/GeriTheFox/soldering-station
-* [**Mirror**](https://htmlpreview.github.io/?)
+Includes Wiring Diagram for the T245 / C245 Tip.
+
+* Link: https://easyeda.com/GeriTheFox/soldering-station - ([**Mirror**](https://htmlpreview.github.io/?https://media.githubusercontent.com/media/dreamcat4/t12-t245-controllers-docs/master/research/easyeda/DIY%20JBC%20245%20Soldering%20Iron%20Controller%20(Beta%20WIP)%20-_%20EasyEDA%20(2020-07-05%2022_46_02).html))
 
 ## ATmega SolderingStation SMD v2
 
 by Stefan Wagner
 
-* Link: https://easyeda.com/wagiminator/z-solderingstation-smd-v2
-* [**Mirror**](https://htmlpreview.github.io/?)
+* An interesting and high quality design, with ATMega 328P (arduino)
+* Includes measurement data for the OpAmp and Mosfet
+
+* Link: https://easyeda.com/wagiminator/z-solderingstation-smd-v2 - ([Mirror](https://htmlpreview.github.io/?https://media.githubusercontent.com/media/dreamcat4/t12-t245-controllers-docs/master/research/easyeda/ATmega%20SolderingStation%20SMD%20v2%20-_%20EasyEDA%20(2020-07-05%2022_46_34).html))
 
 ## CD_STM32_T12_Combo
 
 by Evgen Kovalenko
 
 * Link: https://easyeda.com/evgen2910/cd_stm32_t12_combo
-* **Accessible version:** [mirrored, translated to english](https://htmlpreview.github.io/?)
-
-
-
+* **Accessible version:** [mirrored, translated to english](https://htmlpreview.github.io/?https://media.githubusercontent.com/media/dreamcat4/t12-t245-controllers-docs/master/research/easyeda/CD_STM32_T12_Combo%20-%20EasyEDA%20(2020-07-05%2023_06_41).html)
 
 
 
