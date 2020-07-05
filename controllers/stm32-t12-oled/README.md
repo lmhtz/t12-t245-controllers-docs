@@ -7,7 +7,7 @@
 * [Compatibility with Open Firmware](#compatibility-with-open-firmware)
 	* [**WARNING!!** Before flashing](#warning-before-flashing)
 	* [Supported](#supported)
-	* ['v1.5' Original Version \(PT Dreamer\)](#v15-original-version-pt-dreamer)
+		* ['v1.5' Original Version \(PT Dreamer\)](#v15-original-version-pt-dreamer)
 		* ['v2.1S' Original Version \(Green PCB\)](#v21s-original-version-green-pcb)
 	* [Experimental](#experimental)
 		* [Blue PCB 'Ve2.1S' r2 KSGER Version \(LWFP-64\)](#blue-pcb-ve21s-r2-ksger-version-lwfp-64)
@@ -58,7 +58,7 @@ There is a fork of ptdreamer's firmware, adapted for a `v2.1s` PCB revision. The
 Unfortunately there appear to be multiple so-called 'v2.1S' hardware revisions floating around out there. Generally speaking they both use some type of an STM32 MCU. You should be sure to check very carefully (and in detail) for verifying your board.
 
 <a id="v15-original-version-pt-dreamer"></a>
-### 'v1.5' Original Version (PT Dreamer)
+#### 'v1.5' Original Version (PT Dreamer)
 
 ![v1.5 version)](v1.5-ptdreamer-orig/SAM_2582.JPG)
 
