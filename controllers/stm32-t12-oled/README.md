@@ -62,7 +62,7 @@ Unfortunately there appear to be multiple so-called 'v2.1S' hardware revisions f
 
 ![v1.5 version)](v1.5-ptdreamer-orig/SAM_2582.JPG)
 
-* [Folder with schematic, picutres, etc.](v1.5-ptdreamer-orig)
+* [Folder with schematic, pictures, etc.](v1.5-ptdreamer-orig)
 
 This hardware is compatible with PTDreamer's Open Firmware (original version). As found on PTDreamer's original Github repo.
 
@@ -75,7 +75,7 @@ The PCB pictured below is **the original version of the v2.1S hardware**. This i
 
 ![Original V2.1S r1)](v2.0-and-v2.1-original/r1/t12-stm32-controller-back.jpg)
 
-* [Folder with schematic, picutres, etc.](v2.0-and-v2.1-original/r1)
+* [Folder with schematic, pictures, etc.](v2.0-and-v2.1-original/r1)
 * [Aliexpress purchase link](https://www.aliexpress.com/item/32844179319.html) (may expire)
 
 **Updated version:**
@@ -84,7 +84,7 @@ There is also an updated version of this original PCB. Which looks very similar,
 
 ![Original V2.1S r2)](v2.0-and-v2.1-original/r2/back.jpg)
 
-* [Folder with schematic, picutres, etc.](v2.0-and-v2.1-original/r2)
+* [Folder with schematic, pictures, etc.](v2.0-and-v2.1-original/r2)
 
 <a id="experimental"></a>
 ### Experimental
@@ -104,7 +104,7 @@ We can see from the photo (below) that the MCU is an [STM32F103RCT6](https://oct
 
 !['Ve2.1S' r2](v2.1s-and-Ve2.1S/r2/back-low-res.jpg)
 
-* [Folder with schematic, picutres, etc.](v2.1s-and-Ve2.1S)
+* [Folder with schematic, pictures, etc.](v2.1s-and-Ve2.1S)
 
 <a id="unknown-or-not-supported"></a>
 ### Unknown or Not Supported
@@ -143,7 +143,7 @@ and
 
 ![v3 r2](v3.0-and-v3.1/r2/20200608_014712.jpg)
 
-* [Folder with schematic, picutres, etc.](v3.0-and-v3.1/r2)
+* [Folder with schematic, pictures, etc.](v3.0-and-v3.1/r2)
 
 
 
