@@ -4,6 +4,8 @@
 
 * [Wiring](#wiring)
 	* [In the handle](#in-the-handle)
+		* [Diagram by GeriTheFox](#diagram-by-gerithefox)
+		* [Ricardo's Photos](#ricardos-photos)
 * [Thermocouple](#thermocouple)
 	* [Cross Section Image](#cross-section-image)
 	* [Thermocouple plot from Hazar's Blog](#thermocouple-plot-from-hazars-blog)
@@ -22,6 +24,16 @@
 
 <a id="in-the-handle"></a>
 ### In the handle
+
+<a id="diagram-by-gerithefox"></a>
+#### Diagram by GeriTheFox
+
+![Wiring Diagram](c245-wiring-gerithefox.jpeg)
+
+* Link: https://easyeda.com/GeriTheFox/soldering-station - ([**Mirror**](https://htmlpreview.github.io/?https://media.githubusercontent.com/media/dreamcat4/t12-t245-controllers-docs/master/research/easyeda/DIY%20JBC%20245%20Soldering%20Iron%20Controller%20(Beta%20WIP)%20-_%20EasyEDA%20(2020-07-05%2022_46_02).html))
+
+<a id="ricardos-photos"></a>
+#### Ricardo's Photos
 
 Photos of the Handle cable's wiring to the Hi-rose connector
 
