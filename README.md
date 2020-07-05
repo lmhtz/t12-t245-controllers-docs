@@ -54,7 +54,7 @@ Documentation for different Soldering Iron [Tips or Handles](tips-and-handles).
 <a id="research"></a>
 ### Research
 
-Research materials which do not neatly fall into the above categories. They may include significant information for multiple different categories. Or if written in a foreign language, then a translation to english is provided.
+[Research materials](research) which do not neatly fall into the above categories. They may include significant information for multiple different categories. Or if written in a foreign language, then a translation to english is provided.
 
 <a id="disclaimers"></a>
 ## Disclaimers

@@ -64,12 +64,12 @@ Unfortunately there appear to be multiple so-called 'v2.1S' hardware revisions f
 
 * [Folder with schematic, pictures, etc.](v1.5-ptdreamer-orig)
 
-This hardware is compatible with PTDreamer's Open Firmware (original version). As found on PTDreamer's original Github repo.
+This hardware is compatible with [PTDreamer's Open Firmware](/research/ptdreamer) (original version). As found on PTDreamer's original [Github repo](https://github.com/PTDreamer/stm32_soldering_iron_controller).
 
 <a id="v21s-original-version-green-pcb"></a>
 #### 'v2.1S' Original Version (Green PCB)
 
-There is a Newer Forked version of PT Dreamer open firmware. Which has been updated to instead work for 'V2.1S hardware'.
+There is also a [Newer Forked version](https://github.com/luckyTomas/stm32_soldering_iron_controller/tree/flawless_testing) of PT Dreamer open firmware. Which has been updated to instead work for 'V2.1S hardware'.
 
 The PCB pictured below is **the original version of the v2.1S hardware**. This is the preferred hardware for v2.1s because this original version is from a time before KSGER started cutting costs in later designs.
 
