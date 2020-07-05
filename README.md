@@ -39,17 +39,17 @@ This repository provides research and technical information about soldering iron
 <a id="controllers"></a>
 ### Controllers
 
-For controllers that have been identified, and are of particular interest. If they have known PCB revisions, and schematics.
+For [controllers](controllers) identified to be of particular interest. Some have known PCB revisions, and schematics.
 
 <a id="tips-and-handles"></a>
 ### Tips and Handles
 
-Documentation for different Soldering Iron Tips or Handles.
+Documentation for different Soldering Iron [Tips or Handles](tips-and-handles).
 
 <a id="tools"></a>
 ### Tools
 
-Hardware and software tools in support. For device programming, debugging, or external calibration of the soldering iron.
+[Hardware and software tools](tools) which help to support: device programming, debugging, or external calibration of the soldering iron.
 
 <a id="research"></a>
 ### Research
