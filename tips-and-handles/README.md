@@ -5,15 +5,17 @@
 
 * [T12 Thermocouple](#t12-thermocouple)
 * [T245 / C245](#t245--c245)
-	* [Hazar Blog](#hazar-blog)
+	* [Wiring](#wiring)
+	* [Thermocouple](#thermocouple)
+		* [Hazar Blog](#hazar-blog)
 * [Universal Soldering Iron - Various](#universal-soldering-iron---various)
-		* [HAKKO T12](#hakko-t12)
-		* [HAKKO FX8801, HAKKO 907 \(original, with PTC sensor\)](#hakko-fx8801-hakko-907-original-with-ptc-sensor)
-		* [JBC C245](#jbc-c245)
-		* [JBC C210](#jbc-c210)
-		* [JBC Microtweezers](#jbc-microtweezers)
-		* [WELLER WSP80](#weller-wsp80)
-		* [ERSA RT80](#ersa-rt80)
+	* [HAKKO T12](#hakko-t12)
+	* [HAKKO FX8801, HAKKO 907 \(original, with PTC sensor\)](#hakko-fx8801-hakko-907-original-with-ptc-sensor)
+	* [JBC C245](#jbc-c245)
+	* [JBC C210](#jbc-c210)
+	* [JBC Microtweezers](#jbc-microtweezers)
+	* [WELLER WSP80](#weller-wsp80)
+	* [ERSA RT80](#ersa-rt80)
 
 <!-- /MarkdownTOC -->
 
@@ -29,10 +31,20 @@ The T12 thermocouple is oddball metallurgy, measured empirically in Hakko Patent
 <a id="t245--c245"></a>
 ## T245 / C245
 
+<a id="wiring"></a>
+### Wiring
+
+See [photos in the subfolder](t245-c245)
+
+* Photos of the Cable wiring of the Hi-rose connector [on the Speaky Blog, by Ricardo - CT2GQV](https://speakyssb.blogspot.com/2018/03/jbc-t245-c245-iron-tip-controller.html) - [mirror](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tips-and-handles/t245-c245/)
+
+<a id="thermocouple"></a>
+### Thermocouple
+
 Characterization of thermocouple. With Excel plot against a regular 'type-K' thermocouple.
 
 <a id="hazar-blog"></a>
-### Hazar Blog
+#### Hazar Blog
 
 Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermocouple](/tools/k-type%20thermocouple). This is a great guide if you want to take measurements yourself.
 
@@ -48,7 +60,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 
 
 <a id="hakko-t12"></a>
-#### HAKKO T12
+### HAKKO T12
 
 - Outer shell, and heater negative (middle) terminal connected together to Vout1- and EARTH
 - heater positive (bottom terminal) connected to Vout1+ and SENSEA
@@ -56,7 +68,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 - 5.6k resistor between ID and Vout2-
 
 <a id="hakko-fx8801-hakko-907-original-with-ptc-sensor"></a>
-#### HAKKO FX8801, HAKKO 907 (original, with PTC sensor)
+### HAKKO FX8801, HAKKO 907 (original, with PTC sensor)
 
 - Outer shell, PTC negative and heater negative connected to EARTH, Vout1- and SENSEB
 - Heater positive connected to Vout1+
@@ -65,7 +77,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 - 820ohm between ID and Vout2-
 
 <a id="jbc-c245"></a>
-#### JBC C245
+### JBC C245
 
 - Outer shell (green wire) connected to EARTH and SENSEB
 - Heater positive(red wire) connected to Vout1- and SENSEA
@@ -74,7 +86,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 - 5.6k between ID and Vout2-
 
 <a id="jbc-c210"></a>
-#### JBC C210
+### JBC C210
 
 - Outer shell (green wire) connected to EARTH and SENSEB
 - Heater negative (middle terminal, blue wire) connected to Vout1-
@@ -83,7 +95,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 - 5.6k between ID and Vout2-
 
 <a id="jbc-microtweezers"></a>
-#### JBC Microtweezers
+### JBC Microtweezers
 
 - Outer shell of both tips (green wire) connected to EARTH
 - Heater 1 negative (blue wire) connected to Vout1-
@@ -93,7 +105,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 - 1.0k between ID and Vout1-
 
 <a id="weller-wsp80"></a>
-#### WELLER WSP80
+### WELLER WSP80
 
 - Outer shell, PTC negative and heater negative (white, black and brown wires) connected to EARTH, Vout1- and SENSEB
 - Heater positive (blue wire) connected to Vout1+
@@ -102,7 +114,7 @@ Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermoc
 - 5.6k between ID and Vout2-
 
 <a id="ersa-rt80"></a>
-#### ERSA RT80
+### ERSA RT80
 
 - Outer shell and Heater/PTC negative (pink and white wires) connected to EARTH, Vout1- and SENSEB
 - Heater/PTC positive (black wire) connected to Vout1+ and SENSEA
