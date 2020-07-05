@@ -1,4 +1,9 @@
-2016-07-03 18:24:33	Kalibrasyon basliyor.
+JBC Tip Temperature / ADC
+====================================================
+DATE TIME Sicaklik(Derece), ADC Degerleri
+DATE TIME Temperature (Degrees), ADC Values
+
+2016-07-03 18:24:33	Kalibrasyon basliyor. (Calibration begins)
 2016-07-03 18:24:34	75.25, 79
 2016-07-03 18:24:35	74.25, 79
 2016-07-03 18:24:35	74.25, 78
@@ -310,7 +315,7 @@
 2016-07-03 18:26:15	411.25, 938
 2016-07-03 18:26:15	409.25, 935
 2016-07-03 18:26:16	460.50, 971
-2016-07-03 18:26:17	Isitma bitti. Soguyor...
+2016-07-03 18:26:17	Isitma bitti. Soguyor... [Heating is over. Cooling Down ...]
 2016-07-03 18:26:17	443.25, 966
 2016-07-03 18:26:17	433.25, 961
 2016-07-03 18:26:17	427.50, 957

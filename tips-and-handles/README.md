@@ -5,9 +5,6 @@
 
 * [T12 Thermocouple](#t12-thermocouple)
 * [T245 / C245](#t245--c245)
-	* [Wiring](#wiring)
-	* [Thermocouple](#thermocouple)
-		* [Hazar Blog](#hazar-blog)
 * [Universal Soldering Iron - Various](#universal-soldering-iron---various)
 	* [HAKKO T12](#hakko-t12)
 	* [HAKKO FX8801, HAKKO 907 \(original, with PTC sensor\)](#hakko-fx8801-hakko-907-original-with-ptc-sensor)
@@ -25,32 +22,10 @@
 
 The T12 thermocouple is oddball metallurgy, measured empirically in Hakko Patent US6087631A for the look up table, 20-21uV/°C accurate from 200°-600°C.
 
-* Specifically we try to gather information on JBC tips (aka 'cartridges').
-
-
 <a id="t245--c245"></a>
 ## T245 / C245
 
-<a id="wiring"></a>
-### Wiring
-
-See [photos in the subfolder](t245-c245)
-
-* Photos of the Cable wiring of the Hi-rose connector [on the Speaky Blog, by Ricardo - CT2GQV](https://speakyssb.blogspot.com/2018/03/jbc-t245-c245-iron-tip-controller.html) - [mirror](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tips-and-handles/t245-c245/The%20_Speaky_%20HF%20SSB%20transceiver%20and%20other%20homebrew%20projects_%20JBC%20T245%20_%20C245%20Iron%20tip%20controller%20(2020-07-05%2021_16_01).html)
-
-<a id="thermocouple"></a>
-### Thermocouple
-
-Characterization of thermocouple. With Excel plot against a regular 'type-K' thermocouple.
-
-<a id="hazar-blog"></a>
-#### Hazar Blog
-
-Hazar's investigations into C245 thermocouple, using the [MAX6675 K-Type Thermocouple](/tools/k-type%20thermocouple). This is a great guide if you want to take measurements yourself.
-
-* Original version: [on Hazar's Blog](http://www.hazarkarabay.com.tr/elektronik/jbc-kontrolcu-sicaklik-olcumu/)
-* **Accessible version:** [Mirrored, translated to english](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tips-and-handles/t245-c245/JBC%20Controler_%20Temperature%20Measurement%20(2020-06-16%2010_25_36).html)
-
+See [README.md in the subfolder](t245-c245)
 
 <a id="universal-soldering-iron---various"></a>
 ## Universal Soldering Iron - Various
