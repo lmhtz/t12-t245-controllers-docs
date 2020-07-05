@@ -36,7 +36,7 @@ The T12 thermocouple is oddball metallurgy, measured empirically in Hakko Patent
 
 See [photos in the subfolder](t245-c245)
 
-* Photos of the Cable wiring of the Hi-rose connector [on the Speaky Blog, by Ricardo - CT2GQV](https://speakyssb.blogspot.com/2018/03/jbc-t245-c245-iron-tip-controller.html) - [mirror](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tips-and-handles/t245-c245/)
+* Photos of the Cable wiring of the Hi-rose connector [on the Speaky Blog, by Ricardo - CT2GQV](https://speakyssb.blogspot.com/2018/03/jbc-t245-c245-iron-tip-controller.html) - [mirror](https://htmlpreview.github.io/?https://github.com/dreamcat4/t12-t245-controllers-docs/blob/master/tips-and-handles/t245-c245/The%20_Speaky_%20HF%20SSB%20transceiver%20and%20other%20homebrew%20projects_%20JBC%20T245%20_%20C245%20Iron%20tip%20controller%20(2020-07-05%2021_16_01).html)
 
 <a id="thermocouple"></a>
 ### Thermocouple
