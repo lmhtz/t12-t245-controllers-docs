@@ -3,7 +3,7 @@
 
 This appears to be a home made version of the Original v2.1 hardware. Includes schematic and PCB layout (files are Sprint Layout 6 format). Home etched PCB.
 
-[Post by BV-Dial](https://radiokot.ru/forum/viewtopic.php?p=3864854#p3864854) - Accessible version: [mirrored, Translaged to english]()
+[Post by BV-Dial](https://radiokot.ru/forum/viewtopic.php?p=3864854#p3864854) - Accessible version: [mirrored, Translaged to english](https://htmlpreview.github.io/?https://media.githubusercontent.com/media/dreamcat4/t12-t245-controllers-docs/master/controllers/stm32-t12-oled/radiokot_bv-dial_diy/Forums%20-%20View%20topic%20-%20T12%20soldering%20station%20on%20stm32.html)
 
 ## Forum Post Translation - English
 
